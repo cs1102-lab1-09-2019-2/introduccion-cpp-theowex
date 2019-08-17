@@ -25,3 +25,20 @@ Ejecutar cada ejercicio:
 **g++ ejercicio.cpp && ./a.out**
 
 
+Comandos github 
+--
+- Copiar el link en el browser:  https://classroom.github.com/a/wOry7FSI
+
+- Ingresar sus credenciales de github registrado con el email de UTEC
+
+- Github crea el repositorio con el codigo base
+
+- La asignacion ha sido creada: https://github.com/cs1102-lab1-09-2019-2/introduccion-cpp-<**Username**>
+
+- Modificar los archivos ***.cpp** para que compilen y se puedan ejecutar correctamente.
+
+- Agregar archivo modificado:  **git add ejercicio1.cpp**
+
+- Commit agregando comentario: **git commit -m "comentario standard"**
+
+- Subir archivo al repositorio: **git push -u origin master**
