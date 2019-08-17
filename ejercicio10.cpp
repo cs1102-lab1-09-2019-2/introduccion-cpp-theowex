@@ -1,6 +1,4 @@
-#include <iostream>
 #include <string>
-using std::cout;
 using std::string;
 
 int main() {
@@ -13,6 +11,11 @@ int main() {
     cout<<b<<"\n";
     cout<<b[0]<<"\n";
     cout<<b[4]<<"\n";
-    cout<<b[50]<<"\n"; //que es lo que pasa aqui?
+
+    int numeros{4, 8, 9, 5, 6, 7};
+    cout<<numeros[0]<<"\n";
+
+    float numero{5.16};
+    cout<<numero<<"\n"
 
 }
