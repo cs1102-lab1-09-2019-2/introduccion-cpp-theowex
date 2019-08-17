@@ -1,5 +1,14 @@
 # Ejercicios usando c++
 
+Nombre:
+--
+
+Github Username:
+--
+
+Instrucciones:
+--
+
 En este template usted va a completar el codigo faltante,
 de tal manera que el programa se ejecute correctamente.
 
