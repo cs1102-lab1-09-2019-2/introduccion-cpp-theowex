@@ -1,9 +1,9 @@
 # Ejercicios usando c++
 
-Nombre:Owen Rivaldo Atamari Aldazabal
+Nombre: Owen Rivaldo Atamari Aldazabal
 --
 
-Github Username:theowex
+Github Username: theowex
 --
 
 Instrucciones:
