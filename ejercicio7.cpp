@@ -2,8 +2,8 @@
 using std::cout;
 
 int main() {
-         a = true; // declarar tipo de dato
-     if (a) {
-         cout << "Bien!!!";
-     }
+    bool a = true; // declarar tipo de dato
+    if (a) {
+        cout << "Bien!!!";
+    }
 }
