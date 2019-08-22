@@ -1,3 +1,5 @@
+#include <iostream>
+#include<cassert>
 
 bool esPalindromo(int n) {
     bool palindromo = true;
@@ -9,6 +11,7 @@ bool esPalindromo(int n) {
             break;
         }
     }
+    return palindromo;
 
 }
 
