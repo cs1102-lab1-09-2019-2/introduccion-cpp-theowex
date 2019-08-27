@@ -1,5 +1,10 @@
 # Ejercicios usando c++
 
+Nota:
+--
+theowex/....................13...............0..............13/13.............20.00
+
+
 Nombre: Owen Rivaldo Atamari Aldazabal
 --
 
